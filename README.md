@@ -22,5 +22,5 @@ Training Planner — это графическое приложение на Pyt
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/training-planner.git
+git clone https://github.com/ваш_username/Code_Future.git
 cd training-planner
