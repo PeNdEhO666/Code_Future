@@ -1,45 +1,21 @@
-# Файлы с данными (история задач)
-tasks.json
-*.json
-
-# Python кэш файлы
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
 *.so
-
-# Виртуальное окружение
-venv/
+.Python
 env/
-ENV/
-env.bak/
-venv.bak/
+venv/
+*.egg-info/
+dist/
+build/
 
-# IDE и редакторы
+# IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-*~
-.DS_Store
 
-# Логи и временные файлы
+# Project specific
+trainings.json
 *.log
-*.tmp
-*.temp
-
-# Файлы сборки и дистрибуции
-dist/
-build/
-*.egg-info/
-*.egg
-
-# Файлы отчётов
-*.pyc
-.pytest_cache/
-.coverage
-htmlcov/
-
-# Резервные копии
-*.bak
-*.backup
+.DS_Store
